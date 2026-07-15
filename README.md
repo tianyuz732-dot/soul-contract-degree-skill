@@ -57,7 +57,7 @@
 ·《非暴力沟通》  
 #  项目结构  
 ·READEME.md——项目简介  
-·SKILL。md——核心规则  
+·SKILL.md——核心规则  
 ·INSTALLER.md——安装教程  
 ·TRANSLATOR.md——项目翻译  
 #  声明  
